@@ -2,7 +2,8 @@ package com.bridgelabz.AddressBook;
 
 public class ContactItems {
 
-    //variable  declartion
+     //variable  declartion
+    
     String firstName;
     String lastName;
     String address;
